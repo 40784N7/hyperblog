@@ -1,2 +1,5 @@
-# hyperblog
-Un blog increible para el curso de Git y Github de Platzi
+# Hyperblog
+
+###### Mi primer repositorio.
+
+Para poner en practica todo lo que aprendo de html, css y javascript.
